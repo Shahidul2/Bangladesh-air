@@ -1,4 +1,4 @@
-# GraphSurrogate-ADR (GS-ADR): Physics-Informed Forecasting in Bangladsesh
+# GraphSurrogate-ADR: Physics-Informed Forecasting in Bangladsesh
 
 This project introduces **GraphSurrogate-ADR (GS-ADR)**, a physics-informed graph neural network for multi-horizon fine particulate matter forecasting across 29 cities in Bangladesh. 
 The model integrates a discretized advection-diffusion-reaction (ADR) backbone with graph-aware neural source terms to ensure mechanistically legible predictions.
