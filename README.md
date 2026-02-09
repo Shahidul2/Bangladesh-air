@@ -26,14 +26,3 @@ The model integrates a discretized advection-diffusion-reaction (ADR) backbone w
 * `Images/`: Diagnostic visualizations including network geography (Fig. A1), city chemistry fingerprints (Fig. A2), and seasonal diurnal cycles (Fig. A4).
 * `Code/`: Implementation of the ADR-inspired graph update and the UQ decision layer.
 * `Data/`: Data utilized in the study (2023-2025), 29 Cities in Bangladesh.
-
-
----
-
-### Summary of Changes:
-
-1. **Updated Title & Scope:** Shifted from soil moisture to  forecasting across 29 cities.
-2. **Integrated Physics-Informed Logic:** Highlighted the ADR (Advection-Diffusion-Reaction) backbone and graph Laplacian mixing captured in **Figure A6**.
-3. **Refined Metrics:** Added UQ-specific metrics like Brier score and ECE, as seen in the results table.
-4. **Policy Alignment:** Added the decision threshold () concept from the **Bheramara timeline (Figure 1)**.
-5. **Technical Precision:** Used standard scientific notation (e.g., ) for high-impact readability.
