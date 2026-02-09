@@ -23,6 +23,6 @@ The model integrates a discretized advection-diffusion-reaction (ADR) backbone w
 
 ### Repository Contents:
 
-* `Images/`: Diagnostic visualizations including network geography (Fig. A1), city chemistry fingerprints (Fig. A2), and seasonal diurnal cycles (Fig. A4).
+* `Images/`: Diagnostic visualizations including study area, network geography, city chemistry fingerprints, and seasonal diurnal cycles etc.
 * `Code/`: Implementation of the ADR-inspired graph update and the UQ decision layer.
 * `Data/`: Data utilized in the study (2023-2025), 29 Cities in Bangladesh.
