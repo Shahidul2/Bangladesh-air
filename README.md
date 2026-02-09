@@ -5,8 +5,8 @@ The model integrates a discretized advection-diffusion-reaction (ADR) backbone w
 
 #### Core Models:
 
-* **GS-ADR (Proposed):** Physics-informed GNN with graph Laplacian diffusion and decay.
-* **Baselines:** LSTM, Vector Autoregression (VAR), HistGBR, and Seasonal Naïve.
+* **GS-ADR (Proposed):** Physics-informed NN with graph Laplacian diffusion and decay.
+* **Baselines:** Persistence, LSTM, Vector Autoregression (VAR), HistGBR, and Seasonal Naïve.
 
 #### Key Features:
 
